@@ -1,0 +1,104 @@
+under estimate- under staffing, staff burnout, no plan  for proper tesing
+over estimation-  high price quotation,longer than neccesary time to deliver, others will win the price bid competiotion
+
+Note:
+FP - The size of a software is measured in function points
+
+Terminologies
+1) cocomo- constructive cost model
+
+while estimating consider below:-
+0) best way is always decompose the project into granular part and then estimate and sumup
+or take expert experience and estimate based on previous project experience
+1) always check what is in scope, what is out of scope, understand project boundaries
+2) project specific charecterstics ()
+3) Common factors
+4) static factors
+5) consider all the impacts, Risks and blockers before giving final estimation
+6) instead of giving estimation for entire project at once, give estiamtion phase/module wise
+
+two kinds of estimation technique are
+parametric (1) productivity based, 2)COCOMO)
+Hueristic
+
+1) Effort estimation through pre baselined productivity or based on past data
+2) effort estimation through constructive cost model
+
+Estimation techniques
+1)PERT - program evaluation review technique
+2) Critical path method- 
+3) cocomo- constructive cost model- the max and minumum schedule in months of the project is derived 
+on the basis of cocomo formula 
+
+size estimation techniques are 
+1) Function point - it is a method to represent the size of a software system
+2) Feature point
+3) TEchnical components
+4) Use case point
+5) line of code
+
+
+IFPUG FPA is the recommended method for estimating the size of greenfield development project in tcs
+IFPUG-->(Internations Function point user group)1984- this grp maintains the standards
+========================================================================================
+Function point like story points are used to measure the size of a software app
+
+Functional point is a unit of measure for functional size
+more functional points means the application is functionally big
+To tell how big the story 
+like to measure distance we use kilometres/miles,
+weight is measured in kgs,
+water is measured in litres
+The size of a software is measured in functional points ex:- if it is big it has 100s of functional points, 50 for small project
+
+its is a method of representing the size of a software, interms of functionality it delivers to the user
+it is language independent
+That system should be decomposed into many individual parts/functional unit
+
+More function points means more cost, more effort is required to build the software
+
+While measuring software size using function points consider all below
+1) first make it into granular small functionality & then estimate
+2) consider requirement diagrams,Data flow diagrams, data models, flow charts, screen layouts,
+Entity relationships, interface descriptions, reports, no of screens
+
+lets say once estimated, if customer added anything out of scope, 
+based on the size of business functionality, calculate the number of functional points 
+
+5 functional units to calculate the functional points are 
+1) ILF-internal log files 2) ELF - external logical files 3) Ext input 4) Ext o/p 5) ext enquiry
+========================================
+Data function is the small functionality that satisfies the user requirements
+here logical files are nothing but databases/data stored in files
+1) Internal logical file - maintained by the application 
+2) external interface logical file - maintained outside of app boundary
+
+2 parameters are required to determine the complexity of data functions
+1) DET --> Data element type 2) RET--> record element type
+The attributes of a table or a file are counted as DET
+
+The subgroup of data within the table or a file which can not exists independently are called RET
+
+Transaction functions
+--------------------
+TF are the functionalities that satisfy the functional user requirements
+TF includes external inquiries
+
+Elementary process
+it is the smallest unit of activity that is meaningful to the user
+3 types - external input, ext output, ext query
+ex:- add employee
+
+3) External input- data comes into the system
+4) Ext output- data goes out of the system
+5) Ext enquired- combination of i/o - resulting data retrival
+
+FTR- file type referenced is ILF internal logical file or extenal logical file\
+VAF= (TDI*0.01)+0.65
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+always think why, what, how - enduku , emiti, ela
+we should embrace/welcome the risk
+when the disaster strikes ur business can  it survive?? 
+when ur entire team on leave how do u manage?????
+
+
+
+in real life also - always identify the risk
+ex:- if u are doing any task, assess what is the risk,
+if i miss this chance what is the risk, if i miss applying H1 what is the risk
+if i dont learn now, what is the risk/impact???
+
+always question stakeholders/sponsors and keep asking what they want
+causes of risk/when projects becomes risky??
+-------
+1) no awareness of what is happenning  inside  the projects
+2) have a plan B
+3) to understand the complexity decouple the system and ask status about that
+4) requirements volatility/changes
+
+calculate the risk
+=================
+1) calculate the severity of risk based on the impact and probability of re-occurance 
+and check whether u can tolerate it or not--> zero tolerance , ex:- attending late to olympics race, or attending my own marriage here we are zero tolerance
+2) as a project manager, we always take the risks, but make sure it is calculated
+
+RISK identification
+----------------------
+1) talk to stake holders, front line staff, 
+2) conduct a risk identification workshop, and review all the risks with senior management 
+ex:- if key team member leaves like if sriram leaves....
+3) identify its is a small risk or not,means task level risk or project level risk
+3) identify the risk triggers, ex:- if excess smoke is coming from cars,it indicates something went wrong, ,
+
+lly if excess bugs are coming then it is a risk trigger, it indicates something wrong is happenning in the project, reviews might not be happenning properly..or something big bug is coming in production
+4) maintaining risk register is useful
+
+reducing the risks /(addressing a threat)
+=============
+1) avoid- means reduce the scope of project
+2) Escalate:- 
+3) Transfer- outsourcing the scope /little work based on our capabilities
+4) mitigate- reducing the risk, if u cant mitigate the risk , atleast analyze why the risk happened,
+we cant mitigate  all the risks, but we can prioritise
+5) Accept - means accepting the risk, if it is of impact and rarely occuring, then accept the risk & 
+6) 1st document all the major risks in the project
+7) put contigenct resources
+
+
+note:- focus on risk triggers,ex:- if 
+if u are continuosly getting requirements, 
+
+lly there are some risk triggers

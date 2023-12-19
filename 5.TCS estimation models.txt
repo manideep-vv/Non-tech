@@ -1,0 +1,29 @@
+Many estimation models are there
+1) early estimation model
+lets say once estimated, if customer added anything out of scope, 
+based on the size of business functionality, calculate the number of functional points 
+
+calculate
+Phase wise effort breakup
+Phase wise schedule breakup
+Phase wise manpower loading
+
+the measurement of size is prduction support point
+Effort= person days
+for support projects use defect prediction model
+in prod support more than 100 person hours means use function points based model for enhancement
+OBP- organizational baseline productivity
+productivity of a production support based on KEDB, nu of interfaces, platform type
+for monitoring we should consider it as a static factor
+
+FEature-->epic-->user story
+primary agile estimations are done at 3 levels
+1) BID levels
+2) PI levels
+3) sprint levels
+
+space- tcs story point based agile comprehensive estimation technique
+SPACE is a tool in TCS , if u enter technology and some work it will automatically gives the story points for that sprint
+
+give story points based on complexity 
+in space we have to select parameters like technology and other resp values, GEnerate story points from space

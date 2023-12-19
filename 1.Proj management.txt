@@ -1,0 +1,136 @@
+what, why , how
+enduku, emiti, ela
+linked in courses: - project management foundations
+
+terminologies
+==============
+stake holders- means owner or all the people who are all impacted by your work like
+process ,product owners managers, others who are all impacted by the problem
+
+project scheduling
+======================================================================
+1) while estimating if u cant estimate a total project then follow iterative approach
+ breaking down the project into smaller tasks and estimate the time required for each task.
+
+we should review the estimates with the people who know the work
+u should think about risks also
+know all the skills required
+ 
+while fixing timeline, u have to consider the holidays, team strength
+5-10% for co-ordination,communication,ewsolving mis understanding, reviews,bug fixes, un anticipated tasks
+
+give trainings to others
+Early start - atm max it can start by that earliest data
+late start - by max it should start definitely by that time, it wont get delayed
+early finish - at min it can complete by that and it cant be completed before that
+late finish - by max it can extend till that date.
+
+if someone cant finish that work - just re-assign that to some other resources who can do best& reduce over allocations
+always consider persons who is going to offboard - resignations..
+
+Managing a project means
+======================
+Managing 
+scope
+Time
+cost
+Resources
+Quality- if u reduce quality both money and time will be wasted
+
+1) always update & watch the schedule - to know where do we stand
+Project never run on time, so always update the actual progress in sheet to
+choose rights frequency to update the project
+2) team members should tell the actual status in early time not at the end else project will go out of control and u will not have time to fix the issues-
+-Early warnings are always better than late warnings
+
+3) always choose least risky activities to fasten
+
+Managing stakeholders
+============================
+understand the stakeholder requirements from requiremenents traceability matrix
+if someone opposes or resistant then understand the reason behind it
+always converse with stake holders to get the latest requirements
+
+preventing project scope increasement
+=================================
+scope is all the work which is required to complete a project
+product scope- features and funtions requested
+project scope- effort needed to deliver the  entire product
+
+scope creep-
+-------------
+un knowingly increasing the scope of a project or 
+uncontrolled expansion of product or project scope without adjusting the time, cost, resources
+scope creep requires you to do more work with same amount of time and money
+
+why it will occur?
+----------------
+while writing sow and making a contract they wont clearly understand what they want and we also 
+dont understand the requirements clearly
+
+Gold plating : - means working on project even after the requirements have been met
+
+principles
+================
+1)understand the root cause why are u doing the project,
+2)for what u are doing it ...& 
+3)how are they going to get benefitted, & you should understand the purpose of it
+4)if your stake holder doesnt articulate what they want, then how can i best serve their needs
+5) while starting a project u should understand project boundaries and scope  
+else u may fell in scope creep & u may work for free and understand why are we doing this project and what is the end goal
+5.1) u should know what is the scope & what is not there in the of scope? 
+6)collaborate with stake holders and  ask questions from sow and ask what they want , be clear on project requirements
+Dont become an unpaid consultant by doing the work that has not been agreed in advance(dont fell in project creep)u can acheive this by understanding the scope , requirements clearly
+because stakeholders may forget what they have initially agreed upon
+7) go with pro active apporach - u only introduce the requirements, u dont need to wait for customer
+
+Real life scenario to understand the requirements clearly
+--------------------
+just hammer is useless right without nails, if u just buy hammer what is the use?
+if u dont know what u will insert, then u may insert some bloody small nail,
+after knowing the requirement at last if u have to insert a ac on it
+again u have to remove old small nail and insert big nail 
+
+problems u should avoid
+=============
+1) weak scope definition (so make sure your scope is clearly defined)
+2) poorly defined sow
+3) missing of defining what is not in scope- if u miss it later they will come back and say this was also in our scope 
+
+weak scope definition
+====================
+when a product or service or end result is not mentioned in acceptance criteria 
+and without knowing the requirements properly we cant estimate properly
+
+poorly defined sow
+===============
+we should ensure sow should contain all the details and high level requirements, then they will come back and asks us to increase the work
+
+
+project management foundations
+====================================================================================
+====================================================================================
+create stakeholder register- who are all have the stake in ur project
+
+two way communication:-
+first focus on listening, always be mindful
+
+
+writing emails:-----------------
+1) use active voice insteadof passive voice
+always use bullet points while writing in a mail
+
+2) whie writing email to big persons- 1st write it and leave it for sometime and later come and polish
+
+consider the audience....
+who is the reader
+what do they know
+why is the reader interested
+
+in first few lines itself write summary
+3)in first few lines itself they should understand everything  
+
+a good reader comunicates what the reader need to know
+4) dont complicate the senetence--> write it in simple words- dont use words ending with ize-> prioritize,utilize these words makesmore complicate
+5) write shorter bulet points
+6) if possible add smileys, sketches,images, add colour ful charts

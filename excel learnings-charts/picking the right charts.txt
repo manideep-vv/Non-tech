@@ -1,0 +1,6 @@
+we can use histogram(vertical bars)
+Box plot- this is the candles in stock market , here we can see min,max,median for that interval
+slope graph- if u are having both positive and negative values- u can use either bar chart / slope graph both looks almost similar
+
+line chart
+Vertical bar chart (Diverging bar chart)

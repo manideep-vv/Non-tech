@@ -1,0 +1,50 @@
+Senior Java Engineer with good Design, hands on development & technical skills along with good interpersonal skills
+
+Responsibilities
+
+Build efficient and high performing solutions to meet the business requirements
+Participate effectively in the entire software development life cycle
+Define and Design solutions to meet the business and strategic requirements
+Organize, lead and motivate development resources to meet expected deliverables and quality standards across multiple releases
+Provides technical direction to the project team and perform code reviews
+Collaborate with team to design, develop, test and refine deliverables that meet the objectives
+Should be able to contribute actively to In sprint automation
+Handling all production support escalations and EACO calls during India day hours
+Motivate team members and promote a strong sense of support, ownership and urgency
+Facilitate communications within the team and facilitate knowledge sharing amongst the team and other personnel.
+Collaborate with Product Managers, System Architects, Analysts and any other stakeholders as needed
+Define & Execute the test strategy across the consumer banking applications
+
+Mandatory Skills
+
+Core skills - 8 to 11 years Java/J2EE Web Application Development, Spring (Core, MVC, AOP, Batch), Web Services (REST, SOAP etc.), Kafka (streaming technologies),integration technologies, Cloud Technologies (AWS/PCF), Microservices & knowledge on Oracle, MongoDB database.
+Strong in OOAD, Multi-threaded application development, design and implementation of web applications, Design Patterns
+Experience in Behavioral Driven Development (BDD) & Domain Driven Development (DDD).
+Hands on Experience in using BDD testing frameworks (Cucumber,karate etc)
+Product & Design Knowledge - Experience with Product Development, Large Enterprise Scale Integrations (preferably in design/development of customer facing large enterprise applications)
+Experience in Consumer Banking or any complex middleware applications
+API - driven development - Experience working with remote data via SOAP, REST and JSON.
+Experience with Applications Performance Tuning, Scaling, Security, Resiliency Best Practices
+Hands on experience in delivering high value projects in Agile (SCRUM) methodology using preferably JIRA tool.
+Unit Testing (JUnit preferred)/ TDD - Scripting & Automated Testing, Continuous Integration and deployment (Jenkins)
+Good business communication skills in English
+System Knowledge & Analysis
+Problem solving & critical thinking
+
+Desired Skills
+
+Certification in Google/Azure Cloud, AWS Associate level / Pivotal Cloud Foundry (PCF) developer, Container and Kubernetes experience.
+
+Experience in Payments landscape/ Check Processing
+
+Skills And Certifications
+
+Technical requirements include the following:
+
+4 year or graduate degree in Computer Science or engineering
+7 -11 years of hands-on software architecture, design and development experience
+Experience in Java/J2EE, Spring, Web Services, Microservices, Cloud
+Strong knowledge in OOAD, Multi-threaded application development
+Experience in Behavioral Driven Development (BDD) & Domain Driven Development (DDD).
+Certification in AWS Associate level / Pivotal Cloud Foundry (PCF) developer
+Work experience with SVN, Maven, GIT, Gradle, AppDynamics, Splunk etc. DevOps tools.

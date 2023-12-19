@@ -1,0 +1,8 @@
+Business continuty management
+
+BCP- Plan is about being able to continue the critical svcs and resume services at an acceptable level
+
+DRP- disaster recovery plan is all about bringing back the services to normal mode
+always have a plan and always be prepared for the worst 
+
+when building is in fire, can ur business survive????

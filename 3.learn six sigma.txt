@@ -1,0 +1,253 @@
+Note:- decisions must be data driven
+we should always be proactive instead of reactive
+1) ASk why for 5 times why if needed, ask why then u will get answer,then based on that answer, ask another Y
+2) always while doing a project, define the controls in excel sheet mention what & when to monitor 
+all the Critical To quality CTQ requirements should be included as part of controls (control subject) , 
+
+
+while doing project as part of six sigma analysis do below
+1) draw a value stream map- understand the flows from supplier to customer and check each process box is there any chance of defect and rework possibilities?
+
+
+Six Sigma is a set of methodologies and tools used to improve business processes by reducing defects and errors, minimizing variation, and increasing quality and efficiency
+
+Terminologies:
+1) waste is anything that is of no value to cusotmers
+2) Lean is all about --> eliminating waste and maximizing value to customers
+   To be lean means provide what is needed when it is needed, with minimum amount of materials
+equipment, labour,space, 
+3) project charter: what we need is called project charter, it is a document that provide 
+direction and focus to project team
+it tells the purpose, goal ,scope of the project
+4) SIPOC -supplier, input,process, output, customer
+why? to understand high level view of process
+5) takt rate--> customer demanded rate
+
+
+Index/ Question -answers
+---------------------------
+
+
+DMAIC-
+Define
+Measure
+Analyze
+improve 
+control
+
+Lean six sigma
+=========
+customer focus
+effectiveness & efficient processes
+proactive prevention and control
+
+
+Project charter
+==============
+1)that doc should contain what we need,
+2)it should display SMART goals- s-specific,M-Measurable,A-attainable,R-Relevant, T-Timebound
+3) it should contain--> problem statement, goal statement,key metrics, financial benefits, project scope, what is out of scope, project boundaries, milestones, completion dates
+(performance measure to be improved)
+if u dont understand what is out of scope, then u will fell into project creep ,means unknwoingly increase of project scope
+
+
+
+value: this is what cusotmers need, expect, and willing to pay for
+Bottleneck or constraints:- slowest processing step of a value stream
+six sigma strives for perfection, achieve efficiency & effective work
+
+
+SIPOC
+========
+to understand high level view of process
+SIPOC -supplier, input,process, output, customer
+process:- take order, prepare pizza, bake pizza, box it, deliver to customer
+Supplier- is any one who provides the inputs to the process ex:- flour mills,ingredient suppliers
+input:- flour, masalas,
+output: pizza
+cusotmers- who is going to eat
+
+VOC:- voice of customer/ Customer satisfaction survey
+cusotmer is anyone who are utilizing our services
+
+CTQ 
+=====
+are Critical to Quality requirements:- performance charecterstics that are critically important to customers
+
+Cost of poor quality
+===================
+means the costs occurred due to poor performance
+These things can be avoided if things were done right at first time
+
+Demo:-
+-----
+demo using swim lane process map (using flow charts), these process maps contain small few major steps
+
+Measure phase
+================
+1) determine what is critical to customers
+2) develop a data collection plan for measuring 
+
+process maps
+1) high level process map (displays main activities inside a process)
+2) swim lane 
+3)Detailed
+4)value stream
+
+1) High level process maps
+contains only major activities ex:- comunicating with fiserv, creating an react page,storing in sql server
+like checkin, see doctor,checkout ,pay 
+if u want to know more, then create detailed individual process maps
+
+What is value:
+Value is what’s important to customers
+
+
+Values streams
+----------------
+ All end to end process activities, resources, information used to transform inputs to outputs that are salable to customers
+ 1) value stream map is a diagram that shows all the steps involved from supplier to customer
+ 2) value stream maps shows the materials and information flows
+instead of this value streams map process diagram, we can happily use high level process map
+This only have extra information like time for each process
+
+Measurement system analysis (MSA)
+------------
+validate the measurement system with measurement system analysis
+Make sure ur measurement system is validated first- like tool Jmeter it should be correct 
+it should always gives consistent output
+evaluates repeatability, reproducability
+repeatability means- if same item is weighed more number of times, it should give consistent output
+reproducability- other machines also should give same output
+in real code:app should give speedy output in consistent mode
+
+Descriptive analysis
+======================
+it states the statistics data of my performace , like high speed, low speed, avg 
+MEasure of central tendency
+1) prepare pareto charts--> a bar/graph chart, x -axis all issues, y-axis all occurance to see the which issue is  most frequenctly occurring 
+ex:- dot plots,histograms, bar charts
+
+DMAIC
+----
+AIC- Analyze phase, improve phase, control phase
+
+
+Analyze (analyze the value stream maps)
+1)analyse waste, delays, quality problems,and anything that doesnot generate any value to customers
+2) Analyze value streams and process maps created during measure phase 
+in value stream map understand each process major box  for high defect rates and rework rates evaluate its process metrics such as long processing times, low yeild, 
+3) during anlysis phase, go through the design and analyse the potential problems 
+4) use 5 why's principle, means ask why for 5 times if needed
+6) create cause effect diagrams and then u can easily demo
+7) u can analyze the performance of 2 companies using box plots, dot plots... grpahical analysis is easy
+
+RTY- roll throughput yeild
+
+cause effect diagram is simply a diagram to list the potential causes of particular effect
+for still data u can use pareto charts for continous data use box plots, histograms, dot plots 
+once this cause effect diagram is ready ask them to vote
+
+improve phase (DMAIC)
+======================================================
+1) generate potential solutions
+2) Evaluate solution alternatives
+3) select best solutions and implement
+
+LEan six sigma improve tools
+1) Failure modes and effective analysis (FMEA)
+2) Error proofing
+3) 5S 
+4) Just in time
+5) kaizen (continuos improvement)
+6) criteria selection and pugh matrices
+
+
+FMEA
+here analyse the process and identify the potential suspected failures, 
+Document all the potential failures and their severities in a excel sheet and prioritize all the risks
+2) error-proofing /mistake-proofing
+prevention,facilitation,detection, 
+its says detect and mitigate the errors immediately
+3) 5S- sort, straighten or set in order,shine or sweep,standardize,sustain
+These 5s describes how a work area should be
+sort- remove un needed items- 
+tag all items with coloured stick notes
+like removing waste, waste is anything that is generating no value to customer,
+ immediate tasks / items needed for current work are tagged with  green/ keep them in green stick notes, 
+ weekly or montly are kept in yellow stick notes, yearly tasks are kept in red stick notes
+
+Green tag items are placed in easy reach and use while working, keep red tag items in another place
+ like basement
+
+shine: uncluttered work area is cleaned or swept
+standardize: create standard work procedures  like rolling silver paper, wiping desks
+safety- the work area is audited for safety practices
+
+Just in time:- says always pull(instead of push) or just in time flow
+it is all about balancing the work load, identify which ODC/branch is delivering at less speed
+
+Kaizen :- says continuos improvement it is a rapid improvement event
+
+kaizen is a well organized facilitaed event to improve a work area/department/process
+or entire value stream
+ex:- like re-organizing the work station, Document the improved process with maps,
+Develop sop(standard operating procedures)
+
+criteria selection matrix:
+-------------------------
+after analysing the value stream map , after identifying the alternate solutions
+u have to pick the best solution using this criteria selection matrix/pugh matrix
+
+first prepare the evaluation criteria , ensure critieria should have
+CTQ- critical to quality requirements
+Impact?
+cost?
+and write the weightage to each solution, prepare a excel sheet and give marks to each solution
+and finally choose a solution
+
+pugh concept selection matrix
+------------------------------
+if u have many alternative solution and if u want to choose 1 best then u can follow this approach - this method is recommended when u already have a baseline & u are comparing against that
+
+this is used when u are comparing alternate solution with a existing process,product,service
+in this we wont give numbers, where are we will give only + or - or s for same with respect to baseline
+we have to sum up all plus and minuses 
+
+control
+============================================================
+establishing controls is all about what to monitor and when to monitor,after monitoring what action to take, Frequency of measurement
+1) in the sheet mention that --> if actual is going very less than expected then what to do ??
+ex:- bake the maida at 112F ,monitor every minute , if temp goes beyond then decrease temp manually
+
+
+1) establish controls 2) monitor
+1) create a plan to monitor, control and regulate performance
+control plan says when to take action and what action to take
+2)to incorporate controls work with process owners to update the standard work procedures
+3)as per process control plan u have to prepare a sheet, stating what to watch and when to watch
+ex:- u have to measure the project milestone % reach, & u mention like to watch every sprint
+similarly in real life , we should also have a control sheet saying 
+1) every week how much we are completing & how far away we are from our goal
+2) we have to revisit/monitor this process every week...
+
+Statistical process control
+--------------------------
+When something went wrong the purpose of SPC is to bring the situation to control
+
+spc is to contrl the process by interving when to take action & when to leave process alone
+the purpose of the spc is to identify the special causes and trouble shoot
+The focus of spc is process variation
+
+process variation is of 2 types 
+Random, non-random
+Random variation - is a chance or due to common causes
+Non random variation- due to unforseen special causes that interfere with routine operation-  like broken tools, jammed equipment
+
+intervien when the process is out of control
+
+Value stream management
+------------------------
+1) 
+
+SWOT analysis- means strength weakness opportunity threat analysis
