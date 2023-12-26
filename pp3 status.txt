@@ -78,3 +78,29 @@ Leadership : Customer service leadership_Linkedin(63528) 1.5 d
 Leadership : Working with Upset customers_Linkedin(63529) 1d
 Leadership : De-escalating Intense situations_Linkedin(63530) 1d
 Leadership : Innovative Customer Service Techniques_Linkedin(63531) 1 d
+
+
+Raise your queries/issues  through Ultimatix -> Global Help Desk
+
+GHD category details of iON/iEvolve issues /queries are given below.
+
+Steps to raise GHD (Global Helpdesk) ticket:
+
+STEP 1 - Login into Ultimatix Global Helpdesk 
+
+STEP 2 - Click on Ultimatix service 
+
+STEP 3 - Click on Raise new UX ticket 
+
+STEP 4 - Select TYPE as iEvolve 
+
+STEP 5 - Select ITEM as Course not launching/Course not working - Post launch/Score not updated as applicable 
+
+STEP 6 - Provide the iON Course id, batch URL, description of the issue, attach relevant screen shots and submit the ticket
+
+Articulation for impact
+=============================
+pre requisite- 
+Commence course work- 55103-10.5 hours 
+Commence couse connect-  57394,57396 5 hours
+Commence complete-   assesment
