@@ -27,3 +27,50 @@ SPACE is a tool in TCS , if u enter technology and some work it will automatical
 
 give story points based on complexity 
 in space we have to select parameters like technology and other resp values, GEnerate story points from space
+
+
+value proposition statement
+--------------------
+its a statement describes how ur prodcut ,solves customer problem,delivers some benefit and improves their situation
+
+if u say enterprise level best in class--dont tell these and all
+how it solves customer problem- speak in a language customer can understand- like it saves time,
+
+ when u are bidding a project from tcs we should prepare value a word file named value proposition statement which will be provided to customers 
+ by seeing that document only they will think buy our product.
+ in that document "talk about why customer should buy our product only"
+ 
+ or any company or while selling our products we should
+ start with why
+ when u are explaining tell 
+ 1) why only tcs ex:- apple while marketing it will talk about why only apple product because of security, so talk about why first
+ 2) How
+ 3) what is our product?
+ but in mails u should write "what,why" ex:- what is corona, then why corona comes?
+ Dont talk about like we have 150 branches ....bla bla 
+ 
+ 
+ MSA- master service aggrement
+ sow- statement of work
+while signing a contract 
+------------------------------
+1) check all security requirements obligations, holding access to production db , sub contractors having prod db access
+like we shouldnot share any personal data with any other third party
+2) penalties
+3) sub contractors involvment
+4) Data retention policy (while signing tcs should store all proj infor for 2 years to get ready for audit) -MSA,SOW,CR,BGC reports,NDA reports
+so when contract expires make sure to save the docs as per policy
+5) customer consent is required for all third party/ licensed software that will be used as part of delivery 
+(TCS should make customer responsible for procuring all such licenses)
+
+
+ex:- Prod SLA which is signed by TCS to wells fargo client, those rules should flow down to the new 3rd party software which we are using
+ex:2- vendors(TCS) are not responsible for loss or corruption of data which is maintained by 3rd party like AWS (here aws is 3rd party) this same clause should be told to cusotmer by tcs in MSA 
+6) if u are using open source software we should get the written approval from them
+
+if any of these are not followed then its called breach of customer aggrement only
+ 
+sub contractors
+-----------------------
+1) if we are involving sub contractors we should get written approval from  customers
+TCS is responsible for contractors performance

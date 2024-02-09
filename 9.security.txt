@@ -1,0 +1,8 @@
+0) Never share ur password with others, even if delivery partner ask then we should tell contact ISM
+1) Always grant access ASAP and revoke within 24 hours 
+2) with the access provided we shouldnot access everything, access only what it was for
+   Accessing information without valid business reason will be treated as misuse, SDLs should review the access periodically
+3) role based access must have been implented
+
+SCI- security controls identification document
+SOW- statement of work
